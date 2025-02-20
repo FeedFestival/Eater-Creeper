@@ -6,8 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Chapter/__StartGame/StartGame.unity
+    guid: f9a70b9419481eb4b8781a4175552dec
+  - enabled: 1
+    path: Assets/Game/Player/PLAYER.unity
+    guid: ff06150ce0388854794ad0a021bfc732
+  - enabled: 1
+    path: Assets/Chapter/the-dungeon/the-dungeon.unity
+    guid: d4b2b83ed3d6e1c41a7caa7f2ece0715
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 2083517dbd9f21846970eed79ceb6247, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
