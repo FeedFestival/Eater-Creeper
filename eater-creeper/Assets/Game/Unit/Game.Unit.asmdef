@@ -1,0 +1,23 @@
+{
+    "name": "Game.Unit",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0b9bafe38c8ceb44a87948771d9cc01",
+        "GUID:5fdacdc8d4e99e343899b49e746b294a",
+        "GUID:4fbf0f86a48056e47a509841a228febd",
+        "GUID:f33f2b80f1b400c4681b48882e2c466c",
+        "GUID:1667b868c06b9b549a0ac699c69b5df7",
+        "GUID:0dfc037f594f86346917c13a02123c66",
+        "GUID:57327dcff219172499da2fb8f92f62dd",
+        "GUID:77221876cc6b8244180b96e320b1bcd4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

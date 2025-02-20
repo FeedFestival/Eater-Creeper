@@ -1,0 +1,20 @@
+{
+    "name": "Game.Interact",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0b9bafe38c8ceb44a87948771d9cc01",
+        "GUID:4fbf0f86a48056e47a509841a228febd",
+        "GUID:5fdacdc8d4e99e343899b49e746b294a",
+        "GUID:f33f2b80f1b400c4681b48882e2c466c",
+        "GUID:ca5694a29ac8e8b439d0c550eaa8a51e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Game.Cluster",
+    "rootNamespace": "",
+    "references": [
+        "GUID:962a5ab44809e3d4090a1466d25d19b7",
+        "GUID:963cbab9580518f4ab42db49c870c431",
+        "GUID:f33f2b80f1b400c4681b48882e2c466c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Game.Shared.Interfaces",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4fbf0f86a48056e47a509841a228febd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
