@@ -1,0 +1,20 @@
+{
+    "name": "Chapter.Playground",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0b9bafe38c8ceb44a87948771d9cc01",
+        "GUID:5fdacdc8d4e99e343899b49e746b294a",
+        "GUID:4fbf0f86a48056e47a509841a228febd",
+        "GUID:70692ccc03c25bc44b65f8bfec15426e",
+        "GUID:f33f2b80f1b400c4681b48882e2c466c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
